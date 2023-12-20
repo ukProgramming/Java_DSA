@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="087038ad-9c99-410d-a5cb-51d84a23d6a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA in Java by Dinesh Varyani.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayDSA/LastOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayDSA/MoveZerosToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayDSA/RevomeEvenElement.java" afterDir="false" />
+    <list default="true" id="087038ad-9c99-410d-a5cb-51d84a23d6a9" name="Changes" comment="adding files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arrayDSA/LastOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrayDSA/LastOccurence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -40,27 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Adding_UpdatingEle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindSecondMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Value.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Resize_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevomeEvenElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/DSA in Java by Dinesh Varyani/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Adding_UpdatingEle.executor": "Run",
+    "Application.FindSecondMax.executor": "Run",
+    "Application.LastOccurence.executor": "Run",
+    "Application.Minimum_Value.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MoveZerosToEnd.executor": "Run",
+    "Application.Resize_Array.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.RevomeEvenElement.executor": "Run",
+    "Application.String_Palindrome.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/DSA in Java by Dinesh Varyani/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.String_Palindrome">
-    <configuration name="FindSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arrayDSA.FindSecondMax" />
+}]]></component>
+  <component name="RunManager" selected="Application.LastOccurence">
+    <configuration name="LastOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrayDSA.LastOccurence" />
       <module name="DSA in Java by Dinesh Varyani" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastOccurence" />
         <item itemvalue="Application.String_Palindrome" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.Resize_Array" />
         <item itemvalue="Application.MoveZerosToEnd" />
-        <item itemvalue="Application.FindSecondMax" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +146,20 @@
       <option name="presentableId" value="Default" />
       <updated>1702842350201</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding files">
+      <option name="closed" value="true" />
+      <created>1703031125920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703031125920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
